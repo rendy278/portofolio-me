@@ -5,7 +5,7 @@ import Project2 from "../project images/landingpage.png";
 import Project3 from "../project images/crudjquery.png";
 import Project4 from "../project images/ecourse.png";
 import Project5 from "../project images/cruddatabase.png";
-import Project6 from "../project images/cruddatabase.png";
+import Project6 from "../project images/shopingcart.png";
 import Project7 from "../project images/weather.png";
 import Project8 from "../project images/kalkulator.png";
 const projects = [
